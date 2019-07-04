@@ -6,6 +6,7 @@
 [![php version](https://img.shields.io/packagist/php-v/drlenux/chain.svg)](https://packagist.org/packages/drlenux/chain)
 [![scrutinizer](https://scrutinizer-ci.com/g/drlenux/chain/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/drlenux/chain/?branch=master)
 [![scrutinizer](https://scrutinizer-ci.com/g/drlenux/chain/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/g/drlenux/chain/?branch=master)
+[![scrutinizer](https://scrutinizer-ci.com/g/drlenux/chain/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/drlenux/chain/?branch=master)
 
 Author: `DrLenux`
 

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1562232768">
+  <project timestamp="1562232768">
+    <package name="DrLenux\Chain">
+      <file name="/home/noname/projects/drlenux/chain/src/AbstractChain.php">
+        <class name="DrLenux\Chain\AbstractChain" namespace="DrLenux\Chain" fullPackage="DrLenux" package="DrLenux">
+          <metrics complexity="22" methods="8" coveredmethods="5" conditionals="0" coveredconditionals="0" statements="26" coveredstatements="23" elements="34" coveredelements="28"/>
+        </class>
+        <line num="30" type="method" name="setNext" visibility="public" complexity="1" crap="1" count="4"/>
+        <line num="32" type="stmt" count="4"/>
+        <line num="33" type="stmt" count="4"/>
+        <line num="41" type="method" name="handler" visibility="public" complexity="8" crap="8.03" count="4"/>
+        <line num="43" type="stmt" count="4"/>
+        <line num="44" type="stmt" count="4"/>
+        <line num="46" type="stmt" count="4"/>
+        <line num="47" type="stmt" count="3"/>
+        <line num="48" type="stmt" count="2"/>
+        <line num="52" type="stmt" count="4"/>
+        <line num="53" type="stmt" count="0"/>
+        <line num="56" type="stmt" count="4"/>
+        <line num="58" type="stmt" count="4"/>
+        <line num="59" type="stmt" count="4"/>
+        <line num="60" type="stmt" count="4"/>
+        <line num="62" type="stmt" count="3"/>
+        <line num="64" type="stmt" count="3"/>
+        <line num="73" type="method" name="nextRun" visibility="private" complexity="2" crap="2.15" count="3"/>
+        <line num="75" type="stmt" count="3"/>
+        <line num="76" type="stmt" count="3"/>
+        <line num="78" type="stmt" count="0"/>
+        <line num="85" type="method" name="runValidate" visibility="private" complexity="3" crap="3.14" count="4"/>
+        <line num="87" type="stmt" count="4"/>
+        <line num="88" type="stmt" count="4"/>
+        <line num="89" type="stmt" count="0"/>
+        <line num="92" type="stmt" count="4"/>
+        <line num="98" type="method" name="validate" visibility="protected" complexity="1" crap="1" count="3"/>
+        <line num="100" type="stmt" count="3"/>
+        <line num="116" type="method" name="getRequest" visibility="public" complexity="1" crap="1" count="4"/>
+        <line num="118" type="stmt" count="4"/>
+        <line num="125" type="method" name="__get" visibility="public" complexity="1" crap="1" count="4"/>
+        <line num="127" type="stmt" count="4"/>
+        <line num="133" type="method" name="getResponse" visibility="public" complexity="2" crap="2" count="3"/>
+        <line num="135" type="stmt" count="3"/>
+        <metrics loc="136" ncloc="87" classes="1" methods="8" coveredmethods="5" conditionals="0" coveredconditionals="0" statements="26" coveredstatements="23" elements="34" coveredelements="28"/>
+      </file>
+      <file name="/home/noname/projects/drlenux/chain/src/Response.php">
+        <class name="DrLenux\Chain\Response" namespace="DrLenux\Chain" fullPackage="DrLenux" package="DrLenux">
+          <metrics complexity="8" methods="4" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="7" coveredstatements="6" elements="11" coveredelements="9"/>
+        </class>
+        <line num="32" type="method" name="__construct" visibility="public" complexity="3" crap="3" count="4"/>
+        <line num="34" type="stmt" count="4"/>
+        <line num="35" type="stmt" count="4"/>
+        <line num="36" type="stmt" count="4"/>
+        <line num="37" type="stmt" count="4"/>
+        <line num="42" type="method" name="getCurrentStage" visibility="public" complexity="1" crap="2.00" count="0"/>
+        <line num="44" type="stmt" count="0"/>
+        <line num="50" type="method" name="getNextStage" visibility="public" complexity="2" crap="2" count="4"/>
+        <line num="52" type="stmt" count="4"/>
+        <line num="58" type="method" name="getMessage" visibility="public" complexity="2" crap="2" count="4"/>
+        <line num="60" type="stmt" count="4"/>
+        <metrics loc="61" ncloc="33" classes="1" methods="4" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="7" coveredstatements="6" elements="11" coveredelements="9"/>
+      </file>
+    </package>
+    <metrics files="2" loc="197" ncloc="120" classes="2" methods="12" coveredmethods="8" conditionals="0" coveredconditionals="0" statements="33" coveredstatements="29" elements="45" coveredelements="37"/>
+  </project>
+</coverage>

@@ -70,7 +70,7 @@ abstract class AbstractChain
      * @param $response
      * @return Response
      */
-    private function nextRun($request, $response): Response
+    private function nextRun($request, $response): ?Response
     {
         if ($this->next !== null) {
             return $this->next->handler($request, $response);
